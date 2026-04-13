@@ -7,7 +7,8 @@
 </head>
 <body>
     <form action="">
-        
+    <label class="fomr-label">post</label>
+    <input type="text" class="form-control" placeholder="enter your post here">
     </form>
 </body>
 </html>
